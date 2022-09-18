@@ -1,0 +1,39 @@
+.container{
+    padding: 1px 20px 10px 20px;
+    border: 5px;
+    background:white;
+    border-radius: 1%;
+}
+.heading{
+    border-radius: 50px 50px;
+    align-content: center;
+    height: 50px;
+    background-color: rgb(221, 238, 232);
+    border-bottom: 1px solid;
+}
+.heading h1{
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.content{
+    height: 1000px;
+    margin: 3px;
+    
+}
+
+.contact ul{
+    height: 30px;
+    margin: 3px;
+    padding: 10px 5px 1px 10px;
+    border-top: 2px solid;
+    border-bottom: 1px solid;
+    text-align: center;
+
+}
+.contact li{
+    
+    display: inline;
+    margin: 85px;
+}
